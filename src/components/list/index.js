@@ -1,0 +1,1 @@
+console.log('我是list组件下的index.js文件')
