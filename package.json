@@ -13,6 +13,7 @@
     "duplexer2": "^0.1.4",
     "gem": "^2.4.3",
     "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
     "gulp-concat": "^2.6.1",
     "gulp-imagemin": "^5.0.3",
     "gulp-ruby-sass": "^4.0.0",
